@@ -1,0 +1,1 @@
+package org.webapp.walletservice.exception;
